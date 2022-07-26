@@ -1,1 +1,0 @@
-Hello , I am Ayush Lath , final year undergraduate at Dr. AITH Kanpur learning Django web Framework.
